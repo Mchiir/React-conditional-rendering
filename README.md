@@ -1,4 +1,4 @@
-To run the codes below:
+To run the codes:
 import the components into App.js
 include the import in your default App.js component
 run terminal cmd: npm start
